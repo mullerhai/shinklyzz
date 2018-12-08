@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mInstalling jsdom in /home/muller/Documents/scalarepo/shinlyko/target/scalajs-bundler-jsdom[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: npm install jsdom@9.9.0[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN saveError ENOENT: no such file or directory, open '/home/muller/Documents/scalarepo/shinlyko/target/scalajs-bundler-jsdom/package.json'[0m
+[0m[[0m[31merror[0m] [0m[0mnpm notice created a lockfile as package-lock.json. You should commit this file.[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN enoent ENOENT: no such file or directory, open '/home/muller/Documents/scalarepo/shinlyko/target/scalajs-bundler-jsdom/package.json'[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN scalajs-bundler-jsdom No description[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN scalajs-bundler-jsdom No repository field.[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN scalajs-bundler-jsdom No README data[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN scalajs-bundler-jsdom No license field.[0m
+[0m[[0m[31merror[0m] [0m[0m+ jsdom@9.9.0[0m
+[0m[[0m[31merror[0m] [0m[0madded 80 packages in 30.246s[0m

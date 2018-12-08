@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0mWriting and bundling the test loader[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: node /home/muller/Documents/scalarepo/shinlyko/target/scala-2.12/scalajs-bundler/test/node_modules/webpack/bin/webpack --bail --profile --json --mode development --config /home/muller/Documents/scalarepo/shinlyko/target/scala-2.12/scalajs-bundler/test/webpack-core.config.js /home/muller/Documents/scalarepo/shinlyko/target/scala-2.12/scalajs-bundler/test/shinlyko-test-fastopt-loader.js --output /home/muller/Documents/scalarepo/shinlyko/target/scala-2.12/scalajs-bundler/test/shinlyko-test-fastopt-bundle.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting process: node[0m

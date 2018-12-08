@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Scala.js DOM
+Implementation-Version: 0.9.6
+Specification-Vendor: org.scala-js
+Specification-Title: Scala.js DOM
+Implementation-Vendor-Id: org.scala-js
+Specification-Version: 0.9.6
+Implementation-URL: http://scala-js.org/
+Implementation-Vendor: org.scala-js
+

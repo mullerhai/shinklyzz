@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0mUpdating NPM dependencies[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: npm install[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN deprecated nomnom@1.8.1: Package no longer supported. Contact support@npmjs.com for more info.[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN deprecated babel-preset-es2015@6.24.1: 🙌  Thanks for using Babel: we recommend using babel-preset-env now: please read babeljs.io/env to update! [0m
+[0m[[0m[31merror[0m] [0m[0mnpm notice created a lockfile as package-lock.json. You should commit this file.[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules/fsevents):[0m
+[0m[[0m[31merror[0m] [0m[0mnpm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})[0m
+[0m[[0m[31merror[0m] [0m[0madded 987 packages in 44.652s[0m
